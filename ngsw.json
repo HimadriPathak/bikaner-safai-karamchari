@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693645369233,
+  "timestamp": 1693646690269,
   "index": "https://himadripathak.github.io/bikaner-safai-karamchari/https://himadripathak.github.io/bikaner-safai-karamchari/",
   "assetGroups": [
     {
@@ -11,13 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://himadripathak.github.io/bikaner-safai-karamchari/912.c7ee35ce5c00c690.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/favicon.ico",
         "https://himadripathak.github.io/bikaner-safai-karamchari/index.html",
-        "https://himadripathak.github.io/bikaner-safai-karamchari/main.de927e231bb26423.js",
+        "https://himadripathak.github.io/bikaner-safai-karamchari/main.49f0007b27b78bdc.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/manifest.webmanifest",
         "https://himadripathak.github.io/bikaner-safai-karamchari/polyfills.8226e67a2950d2c4.js",
-        "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.9a59f68b5f55bf41.js",
+        "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.294fffc573e92428.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/styles.2ac392a8e69c7c7a.css"
       ],
       "patterns": []
@@ -45,7 +44,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://himadripathak.github.io/bikaner-safai-karamchari/912.c7ee35ce5c00c690.js": "30c8f8a9dbf2cff0ab5581a7e32dac676b2929af",
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/icons/icon-128x128.png": "0496579770d00022a7abf4c303e8d44c5d1a8a48",
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/icons/icon-144x144.png": "d702bcb3ce982d49f78b37c6808b9be828f1e399",
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/icons/icon-152x152.png": "0e106d25fc243b58e406ea33fd1f9af3335fb7d5",
@@ -56,11 +54,11 @@
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/icons/icon-96x96.png": "88fc81ff3a1e8fa5bc5a9fee7fa65aced13e65f5",
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/json/data.json": "304c523825b0e8f616b95f4868ce713910198efe",
     "https://himadripathak.github.io/bikaner-safai-karamchari/favicon.ico": "508d9b79d31a47bbc9afcb80ac5091fff2e6f416",
-    "https://himadripathak.github.io/bikaner-safai-karamchari/index.html": "4f78310bd7fca308614a1fcca6b5dd5c6b943b28",
-    "https://himadripathak.github.io/bikaner-safai-karamchari/main.de927e231bb26423.js": "4c91d2f68c8ecd50463e527e57e15b27b6bab92f",
+    "https://himadripathak.github.io/bikaner-safai-karamchari/index.html": "4cafb5068ff8714a95a59b73d092c6e66fafaec6",
+    "https://himadripathak.github.io/bikaner-safai-karamchari/main.49f0007b27b78bdc.js": "733a2d3feb766a94761879707f014bf880e196dd",
     "https://himadripathak.github.io/bikaner-safai-karamchari/manifest.webmanifest": "87e72c1c320b428c370c9a7dfd2bcc9918f69147",
     "https://himadripathak.github.io/bikaner-safai-karamchari/polyfills.8226e67a2950d2c4.js": "268cee894be9591f93dcf00c9858449a2f7843f8",
-    "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.9a59f68b5f55bf41.js": "2def4fab7c4ff8af14de75c275ab2085de216126",
+    "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.294fffc573e92428.js": "86fff19054eea89804c79320ae545110c16ba171",
     "https://himadripathak.github.io/bikaner-safai-karamchari/styles.2ac392a8e69c7c7a.css": "40d505002dac14a21b881ce507f44d792ddb6a4a"
   },
   "navigationUrls": [
