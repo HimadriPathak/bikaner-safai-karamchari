@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693656610398,
+  "timestamp": 1693907074053,
   "index": "https://himadripathak.github.io/bikaner-safai-karamchari/https://himadripathak.github.io/bikaner-safai-karamchari/",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "https://himadripathak.github.io/bikaner-safai-karamchari/912.c7ee35ce5c00c690.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/favicon.ico",
         "https://himadripathak.github.io/bikaner-safai-karamchari/index.html",
-        "https://himadripathak.github.io/bikaner-safai-karamchari/main.9aa5793c67e1187c.js",
+        "https://himadripathak.github.io/bikaner-safai-karamchari/main.cf3a3f4a956a0f79.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/manifest.webmanifest",
         "https://himadripathak.github.io/bikaner-safai-karamchari/polyfills.8226e67a2950d2c4.js",
         "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.9a59f68b5f55bf41.js",
@@ -56,8 +56,8 @@
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/icons/icon-96x96.png": "88fc81ff3a1e8fa5bc5a9fee7fa65aced13e65f5",
     "https://himadripathak.github.io/bikaner-safai-karamchari/assets/json/data.json": "304c523825b0e8f616b95f4868ce713910198efe",
     "https://himadripathak.github.io/bikaner-safai-karamchari/favicon.ico": "508d9b79d31a47bbc9afcb80ac5091fff2e6f416",
-    "https://himadripathak.github.io/bikaner-safai-karamchari/index.html": "ad58d38ece2758d4d0b7232845d414a21fae7dff",
-    "https://himadripathak.github.io/bikaner-safai-karamchari/main.9aa5793c67e1187c.js": "d9c52359457563e1006aa2654bf8ee790105bcfa",
+    "https://himadripathak.github.io/bikaner-safai-karamchari/index.html": "dd1b1a464bb50956f9890d79e5498c1a0d04667a",
+    "https://himadripathak.github.io/bikaner-safai-karamchari/main.cf3a3f4a956a0f79.js": "33f76845e5017bb59dfea6540a920b88b3b92b50",
     "https://himadripathak.github.io/bikaner-safai-karamchari/manifest.webmanifest": "87e72c1c320b428c370c9a7dfd2bcc9918f69147",
     "https://himadripathak.github.io/bikaner-safai-karamchari/polyfills.8226e67a2950d2c4.js": "268cee894be9591f93dcf00c9858449a2f7843f8",
     "https://himadripathak.github.io/bikaner-safai-karamchari/runtime.9a59f68b5f55bf41.js": "2def4fab7c4ff8af14de75c275ab2085de216126",
